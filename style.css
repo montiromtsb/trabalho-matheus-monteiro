@@ -1,0 +1,117 @@
+body{
+    font-size: 100%;
+    background: linear-gradient(rgb(40, 90, 184),white);
+}
+
+.inicio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.inicio-imagem{
+   max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.inicio-menu{
+    display: flex;
+    gap: 32px;
+}
+.inicio-item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+.corpo{
+    border-top: 0.5px solid rgb(10, 10, 10);
+    margin-bottom: 50px;
+}
+.corpo-b{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.corpo-principal{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.corpo-principal-titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 40000;
+    font-size: 30px;
+    color: white;
+}
+.corpo-principal-sub{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    color: rgb(0, 0, 0);
+}
+.corpo-c{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 50px;
+}
+.corpo-ultimo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: 4000;
+}
+.corpo-ultimob{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30PX;
+    color: black;
+}
+.foto-meio{
+    max-width:350px;
+    border-radius: 50px;
+   box-shadow: 5px 5px;
+}
+.img1{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.img2{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.img3{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.img4{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.img5{
+    max-width: 170px;
+   border-radius: 90px;
+   box-shadow: 5px 5px;
+}
+.img6{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.img7{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
+.img8{
+    max-width: 100px;
+   border-radius: 100px;
+   box-shadow: 5px 5px;
+}
